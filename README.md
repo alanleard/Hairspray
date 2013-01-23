@@ -1,4 +1,4 @@
-Hairspray
+Hairspray App
 =========
 
 The Hairspray app for the Cascade Theatre production of Hairspray in 2012
